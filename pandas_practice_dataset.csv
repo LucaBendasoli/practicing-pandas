@@ -1,0 +1,101 @@
+ID,Name,Age,Gender,City,Income,Purchase_Amount,Purchase_Category,Loyalty_Score,Signup_Date,Active_User
+1,Person_1,56,Male,Phoenix,91135,1108.16,Clothing,9,2020-01-01,False
+2,Person_2,46,Female,New York,80108,608.76,Fitness,7,2020-01-02,True
+3,Person_3,32,Female,Chicago,68467,1202.12,Electronics,1,2020-01-03,True
+4,Person_4,25,Female,Los Angeles,53328,109.48,Food,3,2020-01-04,True
+5,Person_5,38,Male,Houston,116831,122.83,Electronics,9,2020-01-05,True
+6,Person_6,56,Female,Chicago,33987,1654.07,Food,1,2020-01-06,False
+7,Person_7,36,Male,New York,88871,752.37,Books,9,2020-01-07,False
+8,Person_8,40,Male,Houston,52399,297.77,Clothing,8,2020-01-08,True
+9,Person_9,28,Female,New York,76214,1068.37,Electronics,1,2020-01-09,True
+10,Person_10,28,Female,New York,116416,1551.49,Fitness,6,2020-01-10,False
+11,Person_11,41,Male,Los Angeles,100271,470.85,Books,5,2020-01-11,False
+12,Person_12,53,Male,Houston,74064,1264.64,Electronics,6,2020-01-12,False
+13,Person_13,57,Female,Houston,100091,216.43,Fitness,10,2020-01-13,False
+14,Person_14,41,Female,Los Angeles,70818,150.78,Electronics,5,2020-01-14,True
+15,Person_15,20,Female,Chicago,75525,1086.14,Food,6,2020-01-15,False
+16,Person_16,39,Male,New York,49830,1104.24,Electronics,5,2020-01-16,True
+17,Person_17,19,Male,Phoenix,47429,1292.99,Electronics,5,2020-01-17,False
+18,Person_18,41,Male,New York,36893,1465.88,Electronics,4,2020-01-18,False
+19,Person_19,47,Male,New York,109909,1952.91,Books,3,2020-01-19,False
+20,Person_20,55,Male,Chicago,77333,1056.79,Electronics,3,2020-01-20,False
+21,Person_21,19,Male,New York,33436,679.77,Fitness,4,2020-01-21,False
+22,Person_22,38,Female,Los Angeles,104290,1600.61,Food,9,2020-01-22,True
+23,Person_23,50,Male,Los Angeles,106213,578.12,Food,2,2020-01-23,True
+24,Person_24,29,Male,Houston,35895,905.99,Electronics,9,2020-01-24,False
+25,Person_25,39,Male,Phoenix,49738,202.99,Books,1,2020-01-25,False
+26,Person_26,42,Female,New York,60746,99.43,Books,1,2020-01-26,True
+27,Person_27,44,Male,New York,79377,1927.16,Fitness,5,2020-01-27,False
+28,Person_28,59,Male,Chicago,78404,1680.16,Electronics,6,2020-01-28,False
+29,Person_29,45,Female,Los Angeles,84045,1407.15,Food,6,2020-01-29,True
+30,Person_30,33,Male,Phoenix,69790,847.46,Books,3,2020-01-30,False
+31,Person_31,32,Male,Houston,35600,387.92,Electronics,7,2020-01-31,False
+32,Person_32,20,Male,Los Angeles,70764,355.05,Books,9,2020-02-01,True
+33,Person_33,54,Male,Houston,104543,537.97,Books,10,2020-02-02,True
+34,Person_34,24,Male,Chicago,75714,1120.99,Food,8,2020-02-03,True
+35,Person_35,38,Female,Chicago,86835,1443.46,Clothing,6,2020-02-04,False
+36,Person_36,26,Female,New York,103744,1337.38,Fitness,8,2020-02-05,True
+37,Person_37,56,Female,Phoenix,86491,595.87,Fitness,5,2020-02-06,True
+38,Person_38,35,Male,Houston,48589,1911.99,Food,8,2020-02-07,True
+39,Person_39,21,Male,Los Angeles,73484,1488.9,Books,10,2020-02-08,True
+40,Person_40,42,Male,Chicago,112989,1130.99,Electronics,4,2020-02-09,True
+41,Person_41,31,Female,New York,66212,1242.86,Books,10,2020-02-10,True
+42,Person_42,26,Male,New York,73525,868.22,Food,8,2020-02-11,False
+43,Person_43,43,Male,Houston,77202,533.08,Fitness,10,2020-02-12,False
+44,Person_44,19,Female,Chicago,62635,744.15,Books,2,2020-02-13,True
+45,Person_45,37,Male,Phoenix,93208,1527.8,Fitness,5,2020-02-14,True
+46,Person_46,45,Female,Chicago,63828,78.07,Electronics,9,2020-02-15,True
+47,Person_47,24,Female,Houston,48711,276.34,Fitness,4,2020-02-16,False
+48,Person_48,25,Female,Houston,33420,139.71,Fitness,6,2020-02-17,False
+49,Person_49,52,Male,Chicago,30301,129.42,Clothing,1,2020-02-18,False
+50,Person_50,31,Male,Houston,75236,1718.15,Clothing,9,2020-02-19,False
+51,Person_51,34,Male,Chicago,96235,1422.13,Clothing,1,2020-02-20,False
+52,Person_52,53,Male,Los Angeles,84240,974.64,Fitness,5,2020-02-21,False
+53,Person_53,57,Male,Chicago,95726,240.78,Food,4,2020-02-22,False
+54,Person_54,21,Male,Chicago,40492,1008.65,Fitness,3,2020-02-23,False
+55,Person_55,19,Male,Houston,36102,973.27,Food,6,2020-02-24,False
+56,Person_56,23,Female,Houston,80336,387.74,Food,2,2020-02-25,True
+57,Person_57,59,Male,New York,115314,896.01,Clothing,3,2020-02-26,True
+58,Person_58,21,Female,New York,56641,827.08,Books,5,2020-02-27,True
+59,Person_59,46,Male,Los Angeles,64584,1250.91,Electronics,9,2020-02-28,True
+60,Person_60,35,Male,New York,62745,1288.43,Clothing,2,2020-02-29,False
+61,Person_61,43,Male,Chicago,53093,138.34,Clothing,10,2020-03-01,False
+62,Person_62,51,Female,Houston,96105,780.49,Books,8,2020-03-02,True
+63,Person_63,27,Female,New York,81885,1270.43,Electronics,2,2020-03-03,False
+64,Person_64,53,Female,New York,66631,1031.12,Fitness,5,2020-03-04,True
+65,Person_65,31,Female,Los Angeles,102991,1720.16,Fitness,7,2020-03-05,False
+66,Person_66,48,Male,Los Angeles,34014,1334.45,Clothing,8,2020-03-06,True
+67,Person_67,32,Female,Chicago,41093,367.72,Electronics,1,2020-03-07,False
+68,Person_68,25,Male,Houston,48070,187.61,Clothing,6,2020-03-08,False
+69,Person_69,31,Male,Los Angeles,65777,1302.72,Food,1,2020-03-09,True
+70,Person_70,40,Female,New York,86958,101.7,Clothing,2,2020-03-10,False
+71,Person_71,57,Female,Houston,112074,1192.26,Clothing,1,2020-03-11,True
+72,Person_72,38,Female,Houston,40729,1883.45,Fitness,5,2020-03-12,True
+73,Person_73,33,Female,New York,75017,1172.17,Fitness,10,2020-03-13,True
+74,Person_74,35,Female,Los Angeles,96320,806.93,Fitness,9,2020-03-14,True
+75,Person_75,41,Female,New York,57751,1304.41,Food,6,2020-03-15,False
+76,Person_76,43,Female,Houston,108069,943.59,Fitness,1,2020-03-16,False
+77,Person_77,42,Female,Phoenix,84748,1113.95,Electronics,1,2020-03-17,False
+78,Person_78,58,Male,Phoenix,35801,1885.86,Books,2,2020-03-18,True
+79,Person_79,46,Female,Chicago,49190,802.9,Electronics,9,2020-03-19,False
+80,Person_80,32,Female,New York,79689,1924.32,Electronics,3,2020-03-20,True
+81,Person_81,18,Male,New York,80993,1815.43,Fitness,1,2020-03-21,False
+82,Person_82,42,Female,Chicago,59592,431.79,Books,5,2020-03-22,False
+83,Person_83,24,Male,Chicago,40647,185.25,Books,7,2020-03-23,False
+84,Person_84,26,Male,Chicago,38716,246.52,Books,6,2020-03-24,True
+85,Person_85,41,Female,Houston,118891,85.53,Food,1,2020-03-25,False
+86,Person_86,18,Male,New York,117545,234.16,Fitness,5,2020-03-26,False
+87,Person_87,25,Male,Houston,119912,1381.86,Books,5,2020-03-27,True
+88,Person_88,41,Male,Chicago,100316,188.82,Food,6,2020-03-28,False
+89,Person_89,28,Male,New York,32368,672.0,Clothing,3,2020-03-29,True
+90,Person_90,34,Female,Houston,107575,1697.51,Clothing,5,2020-03-30,False
+91,Person_91,25,Male,Houston,36655,95.38,Food,7,2020-03-31,True
+92,Person_92,52,Female,Chicago,100031,1638.21,Food,5,2020-04-01,True
+93,Person_93,52,Male,New York,106429,599.62,Fitness,5,2020-04-02,False
+94,Person_94,50,Male,Chicago,117922,280.42,Fitness,5,2020-04-03,True
+95,Person_95,22,Male,New York,85766,1408.64,Clothing,10,2020-04-04,True
+96,Person_96,59,Male,Phoenix,43403,1276.44,Books,10,2020-04-05,True
+97,Person_97,56,Female,Los Angeles,62097,1761.07,Clothing,3,2020-04-06,True
+98,Person_98,58,Female,Los Angeles,108657,1483.39,Books,1,2020-04-07,True
+99,Person_99,45,Male,Los Angeles,40966,1616.79,Books,5,2020-04-08,True
+100,Person_100,24,Male,Chicago,82921,599.97,Fitness,9,2020-04-09,False
